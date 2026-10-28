@@ -1,0 +1,35 @@
+{
+    "name": "Where’s My Pet",
+    "short_name": "WMP",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#FDFAF2",
+    "theme_color": "#FDFAF2",
+    "description": "Game - Where’s My Pet",
+    "orientation": "portrait-primary",
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "icons/Icon-192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/Icon-512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/Icon-maskable-192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "maskable"
+        },
+        {
+            "src": "icons/Icon-maskable-512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "maskable"
+        }
+    ]
+}
